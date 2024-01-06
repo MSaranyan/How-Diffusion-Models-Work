@@ -1,14 +1,14 @@
 # Building Diffusion Model from Scratch
 
-Welcome to the "How-Diffusion-Models-Work" course repository. This course is designed to teach how to construct a diffusion model from the ground up.
+Welcome to the "How-Diffusion-Models-Work" repository. This is designed to teach how to construct a diffusion model from the ground up.
 
-## Course Overview
+## Repository Overview
 
-In this course:
+In this Repository:
 
-- Explore the cutting-edge world of diffusion-based generative AI and create your own diffusion model from scratch.
-- Gain deep familiarity with the diffusion process and the models driving it, going beyond pre-built models and APIs.
-- Acquire practical coding skills by working through labs on sampling, training diffusion models, building neural networks for noise prediction, and adding context for personalized image generation.
+- Explore the diffusion-based generative AI and create diffusion model from scratch.
+- Gain familiarity with the diffusion process and the models going beyond pre-built models and APIs.
+- Codes on sampling, training diffusion models, building neural networks for noise prediction, and adding context for personalized image generation.
 
 ## Repository Contents
 
